@@ -8,8 +8,6 @@ namespace Tyuiu.BaturinaSA.Sprint4.Task7.V7.Lib
         {
             int[,] mtrx = new int[rows, columns];
 
-            int index = 0;
-
             for (int i = 0; i < rows; i++)
             {
                 for (int j = 0; j < columns; j++)
